@@ -25,7 +25,7 @@ const Index = () => {
           <Heading as="h2" size="xl" mb={4}>
             About Our Tours
           </Heading>
-          <Text fontSize="lg">Our tours offer a unique opportunity to explore the rich cultural heritage of India through its traditional male Panjabi attire. Join us on a journey to discover the history, craftsmanship, and beauty of this timeless garment.</Text>
+          <Text fontSize="lg">Our tours offer a unique opportunity to explore the rich cultural heritage of India through its traditional male Panjabi attire. The Panjabi, a traditional Indian garment, is known for its intricate designs, vibrant colors, and exquisite craftsmanship. Join us on a journey to discover the history, cultural significance, and beauty of this timeless attire, and learn about the artisans who keep this tradition alive.</Text>
         </Box>
 
         {/* Call to Action Section */}
